@@ -47,6 +47,15 @@ one;
   text-decoration: none;
   color: black;
 }
+dropdown {
+ position:relative;   
+display: inline-blpck;
+.zoomimage {
+transition: 0.5s;
+.Zoomimage:hover { 
+ transform: scale(1.2);   
+   
+    
 .zoomimage {
   transition: 0.5s;       
 }
